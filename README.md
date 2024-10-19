@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @DevSam-ke
-- 👀 I’m interested in Fullstack development 
+- 👀 I’m interested in Fullstack development ,LAMP stack. Django $ python
 - 🌱 I’m currently working in various projects
-- 💞️ I’m ready to help out and learn from other developers
-- 📫 How to reach me .
-- 😄 Pronouns: ...
+- 💞️ I’m ready to help out and learn from other developer
 - ⚡ Fun fact: love tea and a football geek
+  
 
 <!---
 DevSam-ke/DevSam-ke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
